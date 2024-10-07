@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mapeado Rural on Cooperativa Vindeiras</title>
+    <link>http://vindeiras.gal/lugares/</link>
+    <description>Recent content in Mapeado Rural on Cooperativa Vindeiras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 14 Sep 2024 17:12:21 +0200</lastBuildDate>
+    <atom:link href="http://vindeiras.gal/lugares/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vindeiras</title>
+      <link>http://vindeiras.gal/lugares/vindeiras/</link>
+      <pubDate>Sat, 14 Sep 2024 17:12:21 +0200</pubDate>
+      <guid>http://vindeiras.gal/lugares/vindeiras/</guid>
+      <description>Vindeiras é unha cooperativa que xorde da necesidade de asociar diferentes iniciativas para traballar dende unha fronte común.</description>
+    </item>
+    <item>
+      <title>Ribeiregas</title>
+      <link>http://vindeiras.gal/lugares/ribeiregas/</link>
+      <pubDate>Sat, 14 Sep 2024 16:44:39 +0200</pubDate>
+      <guid>http://vindeiras.gal/lugares/ribeiregas/</guid>
+      <description>Ribeiregas è a rama de alimentaciòn da Cooperativa Ribeira do Navia.Producimos alimentos, paisaxe, cultura e vida nun territorio xeogràficamente afastado e transfonteirizo da alta montaña lucense.&#xA;Ofrecemos formaciòn para elavorar as vosas propias conservas. (Salsas, fermentados, zumes, patès, cutneys&amp;hellip;)&#xA;Elavoramos para ti, ben sexas productor primario ou particular, consulta os nosos servizos de MAKILA. (Zume de mazà, arando, salsa de tomate, &amp;hellip;)&#xA;Traballamos en rede! somos membras de REAS, EspazoCoop, Coop57 Galiza, Eo Alimenta, SLG</description>
+    </item>
+    <item>
+      <title>Cooperativa A Carqueixa</title>
+      <link>http://vindeiras.gal/lugares/carqueixa/</link>
+      <pubDate>Sat, 14 Sep 2024 16:34:47 +0200</pubDate>
+      <guid>http://vindeiras.gal/lugares/carqueixa/</guid>
+      <description>Somos una cooperativa formada por 200 cooperativistas. La media de cabezas de ganado que tenemos por cada uno de nosotros es de unas 25 vacas.&#xA;Ternera Gallega Suprema.&#xA;Muchos de nosotros todavía hacemos la trashumancia, recorremos con nuestras vacas 20 quilómetros hasta los Ancares leoneses y la alimentación de los animales es completamente natural y al aire libre. El alimento principal de los terneros es la leche que maman de sus madres.</description>
+    </item>
+  </channel>
+</rss>
